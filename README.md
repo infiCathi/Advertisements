@@ -1,2 +1,2 @@
 # Advertisements
-Graphic advertisements created
+Graphic advertisements.
